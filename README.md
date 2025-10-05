@@ -1,6 +1,6 @@
 ## A toy-themed endless shooter made with Unity
 
-A fun game I made over a while exploring Unity!
+A fun game I made while exploring Unity!
 
 
 ----
